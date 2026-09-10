@@ -1,0 +1,40 @@
+python-dotenv
+
+# framework / technology for ai agents
+langchain 
+langchain-core 
+langchain-community
+
+
+## LLM PROVIDER 
+
+langchain-groq
+langchain-text-splitters
+
+
+# vector store
+
+langchain-qdrant
+qdrant-client
+
+
+# notebook
+jupyter
+ipykernel
+
+
+# web app 
+
+streamlit
+
+# LLM gateways
+
+portkey-ai
+langchain-openai
+
+## every gateway  -- gives you an openai compatible code 
+
+
+# evaluations 
+
+openevals
