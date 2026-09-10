@@ -1,0 +1,8 @@
+# Keep LF in the repo for everything text; let Git normalize on commit.
+* text=auto eol=lf
+
+# These MUST stay LF - they run on Linux (CI runner / EC2 / container).
+*.sh text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+Dockerfile text eol=lf

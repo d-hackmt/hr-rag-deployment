@@ -16,6 +16,8 @@ __pycache__/
 # --- Virtual environments ---
 basicragenv/
 rbemv/
+hrenv/
+ragenv/
 .venv/
 venv/
 env/

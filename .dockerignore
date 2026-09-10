@@ -6,6 +6,8 @@
 # Local dev venv and Python cache - not needed inside the container.
 rbemv/
 basicragenv/
+hrenv/
+ragenv/
 __pycache__/
 *.pyc
 
@@ -19,6 +21,9 @@ NOTES/
 rag.ipynb
 .ipynb_checkpoints/
 README.md
+SUMMARY.md
+deploy/
+.github/
 docs/
 
 # Teaching-only reference material, never part of the shipped app.
